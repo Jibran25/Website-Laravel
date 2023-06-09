@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     
     <title>New Vision - Page 3</title>
-    
+    {{-- check --}}
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,800" rel="stylesheet" /> <!-- https://fonts.google.com/specimen/Open+Sans?selection.family=Open+Sans -->
     <link href="public/theme/css/all.min.css" rel="stylesheet" /> <!-- https://fontawesome.com/ -->
     <link href="public/theme/slick/slick.css" rel="stylesheet" /> <!-- https://kenwheeler.github.io/slick/ -->
